@@ -1,0 +1,9 @@
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\DotToPngGenerator.Properties.Resources.resources
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\DotToPngGenerator.csproj.GenerateResource.Cache
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\bin\Debug\DotToPngGenerator.exe
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\bin\Debug\DotToPngGenerator.pdb
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\DotToPngGenerator.exe
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\DotToPngGenerator.pdb
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\DotToPngGenerator.Settings.resources
+C:\Documents and Settings\inravinc\My Documents\Visual Studio 2008\Projects\DotToPngGenerator\DotToPngGenerator\obj\Debug\DotToPngGenerator.MainForm.resources
